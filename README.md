@@ -7,6 +7,8 @@ The workflow requires the following preinstalled components on the system.
  - Initialised miniconda package manager
  - Jupyter installed in the base environment of miniconda.
 
+To start the workflow you can 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxNzQ1NTldfQ==
+eyJoaXN0b3J5IjpbNTA5MjQxNTddfQ==
 -->
