@@ -29,8 +29,18 @@ jupyter notebook
 
 Follow through the steps listed in the workflow. 
 
+## Expected Outputs
 
+Four unnumbered output folders will be created at the end of the workflow.
+
+```
+mwa-secmet-bgc
+|___
+|___
+|___
+|
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NzkzNDk1LC00Mzg1ODQ5MDEsLTI0MD
-IwOTc3XX0=
+eyJoaXN0b3J5IjpbMTM1OTU1NzU5OCwtNDM4NTg0OTAxLC0yND
+AyMDk3N119
 -->
