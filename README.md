@@ -17,6 +17,11 @@ The workflow requires the following preinstalled components on the system.
 ```
 git clone https://github.com/somakchowdhury/mwa-secmet-bgc.git 
 ```
+
+## Step 2: 
+
+- Navigate to `mwa-secmet-bgc` folder
+- Run
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDA2MTM0LC0yNDAyMDk3N119
+eyJoaXN0b3J5IjpbLTE1OTQ3NjAwODUsLTI0MDIwOTc3XX0=
 -->
