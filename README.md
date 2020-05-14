@@ -21,7 +21,13 @@ git clone https://github.com/somakchowdhury/mwa-secmet-bgc.git
 ## Step 2: 
 
 - Navigate to `mwa-secmet-bgc` folder
-- Run
+- Then run this command
+```
+jupyter notebook
+```
+- In the browser open the jupyter notebook file `.ipynb`
+
+Follow through the steps listed in the workflow. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ3NjAwODUsLTI0MDIwOTc3XX0=
+eyJoaXN0b3J5IjpbLTQzODU4NDkwMSwtMjQwMjA5NzddfQ==
 -->
