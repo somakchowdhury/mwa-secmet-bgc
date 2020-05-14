@@ -38,11 +38,13 @@ mwa-secmet-bgc
 |___fragmented_pairs/
 |___blast_out/
 |___result_plots/
-|___result_tables
+|___result_tables/
 ```
 
-The `results_plot/` contains pairwise graphs of the compared sequences with appropriate titles for 
+The `results_plot/` contains pairwise graphs of the compared sequences with appropriate titles for subject and query
+
+The `result_tables/` contains modified and filtered blast output tables that were used to produce the plots. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODE0MzIyNSwtNDM4NTg0OTAxLC0yND
-AyMDk3N119
+eyJoaXN0b3J5IjpbODA0NTgzMTEzLC00Mzg1ODQ5MDEsLTI0MD
+IwOTc3XX0=
 -->
