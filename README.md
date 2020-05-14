@@ -35,12 +35,14 @@ Four unnumbered output folders will be created at the end of the workflow.
 
 ```
 mwa-secmet-bgc
-|___
-|___
-|___
-|
+|___fragmented_pairs/
+|___blast_out/
+|___result_plots/
+|___result_tables
 ```
+
+The `results_plot/` contains pairwise graphs of the compared sequences with appropriate titles for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTU1NzU5OCwtNDM4NTg0OTAxLC0yND
+eyJoaXN0b3J5IjpbLTkyODE0MzIyNSwtNDM4NTg0OTAxLC0yND
 AyMDk3N119
 -->
