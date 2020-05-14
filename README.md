@@ -28,6 +28,9 @@ jupyter notebook
 - In the browser open the jupyter notebook file `.ipynb`
 
 Follow through the steps listed in the workflow. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODU4NDkwMSwtMjQwMjA5NzddfQ==
+eyJoaXN0b3J5IjpbOTE4NzkzNDk1LC00Mzg1ODQ5MDEsLTI0MD
+IwOTc3XX0=
 -->
