@@ -9,7 +9,8 @@ The workflow requires the following preinstalled components on the system.
 
 ## Step 1:
 
-
+- First clone the repo 
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcxNDEyMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTk2NTY4MDVdfQ==
 -->
