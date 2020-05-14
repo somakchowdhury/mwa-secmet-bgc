@@ -1,5 +1,5 @@
 # mwa-secmet-bgc
-This repository contains workflow for moving window analysis (MWA) carried out on secondary metabolite BGC genes of bacterial origin
+This repository contains workflow for moving-window-analysis (MWA) carried out on secondary metabolite BGC genes of bacterial origin
 
 The workflow requires the following preinstalled components on the system.
 
@@ -10,5 +10,5 @@ The workflow requires the following preinstalled components on the system.
 To start the workflow you can 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MjQxNTddfQ==
+eyJoaXN0b3J5IjpbMjM0NTg4NjM3XX0=
 -->
