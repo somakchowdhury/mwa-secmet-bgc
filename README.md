@@ -10,7 +10,9 @@ The workflow requires the following preinstalled components on the system.
 ## Step 1:
 
 - First clone the repo 
-``
+```shell
+git clone https://github.com/somakchowdhury/mwa-secmet-bgc.git```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NTY4MDVdfQ==
+eyJoaXN0b3J5IjpbMjQ4MzI3MDU1XX0=
 -->
