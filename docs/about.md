@@ -1,0 +1,1 @@
+This is a page with about information for read the docs

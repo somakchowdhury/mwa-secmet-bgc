@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: docs_mwa-secmet-bgc 
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
