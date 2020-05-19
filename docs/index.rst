@@ -9,9 +9,16 @@ subjected to pairwise comparison using blastp or blastn depending on the
 alphabet to generate blast tables. The blast tables are modified and visualised
 to show variations in percent identity across the windows. 
 
--------------------------
-Clever subtitle goes here
--------------------------
+
+
+---------------------------------
+Getting started with the workflow
+---------------------------------
+The workflow requires the following preinstalled components on the system.
+
+* A linux sub-system 
+* Initialised miniconda package manager
+* Jupyter installed in the base environment of miniconda - `conda install jupyter`
 
 Introduction
 ============
