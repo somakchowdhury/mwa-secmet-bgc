@@ -1,4 +1,7 @@
+[![Documentation Status](https://readthedocs.org/projects/mwa-secmet-bgc/badge/?version=latest)](https://mwa-secmet-bgc.readthedocs.io/en/latest/?badge=latest)
+
 # mwa-secmet-bgc
+
 This repository contains workflow for moving-window-analysis (MWA) carried out on secondary metabolite BGC genes of bacterial origin
 
 The workflow requires the following preinstalled components on the system.
