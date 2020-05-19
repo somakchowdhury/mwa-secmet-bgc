@@ -18,7 +18,8 @@ The workflow requires the following preinstalled components on the system.
 
 * A linux sub-system 
 * Initialised miniconda package manager
-* Jupyter installed in the base environment of miniconda - `conda install jupyter`
+* Jupyter installed in the base environment of miniconda - 
+	`conda install jupyter`
 
 Introduction
 ============
