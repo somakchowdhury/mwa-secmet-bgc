@@ -1,6 +1,14 @@
 =================
-My Project Readme
+mwa-secmet-bgc
 =================
+This is the documentation for the workflow associated with moving window 
+analysis for a pair of sequences that have been prealigned. The workflow 
+lets you split the sequences in input fasta file based on a custom window
+size and and overlap between windows. These split sequences are then 
+subjected to pairwise comparison using blastp or blastn depending on the
+alphabet to generate blast tables. The blast tables are modified and visualised
+to show variations in percent identity across the windows. 
+
 -------------------------
 Clever subtitle goes here
 -------------------------
