@@ -1,54 +1,26 @@
-**************
-mwa-secmet-bgc
-**************
+=================
+My Project Readme
+=================
+-------------------------
+Clever subtitle goes here
+-------------------------
 
+Introduction
+============
 
-This repository contains workflow for moving-window-analysis (MWA) carried out on secondary metabolite BGC genes of bacterial origin
+This is an example reStructuredText document that starts at the very top
+with a title and a sub-title. There is one primary header, Introduction.
+There is one example subheading below.
+The document is just plain text so it is easily readable even before
+being converted to HTML, man page, PDF or other formats.
 
-The workflow requires the following preinstalled components on the system.
+Subheading
+----------
 
- - A linux sub-system
- - Initialised miniconda package manager
- - Jupyter installed in the base environment of miniconda.
+The basic syntax is not that different from Markdown, but it also
+has many more powerful features that Markdown doesn't have. We aren't
+taking advantage of those yet though.
 
-Step 1:
-#######
-
-- Navigate to your directory
-```
- cd path/to/your/dir 
-``` 
-- Clone this repository in that directory
-```
-git clone https://github.com/somakchowdhury/mwa-secmet-bgc.git 
-```
-
-Step 2: 
-#######
-
-- Navigate to `mwa-secmet-bgc` folder
-- Then run this command
-```
-jupyter notebook
-```
-- In the browser open the jupyter notebook file `.ipynb`
-
-Follow through the steps listed in the workflow. 
-
-Expected Outputs
-################
-
-
-Four unnumbered output folders will be created at the end of the workflow.
-
-```
-mwa-secmet-bgc
-|___fragmented_pairs/
-|___blast_out/
-|___result_plots/
-|___result_tables/
-```
-
-The `results_plot/` contains pairwise graphs of the compared sequences with appropriate titles for subject and query
-
-The `result_tables/` contains modified and filtered blast output tables that were used to produce the plots. 
+- Bullet points
+- Are intuitive
+- And simple too
