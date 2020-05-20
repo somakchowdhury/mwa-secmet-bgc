@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - bioawk == 1.0
+  - muscle == 3.8.1551
   - blast == 2.9.0
   - pyfasta == 0.5.2
   - ucsc-fasplit == 366
