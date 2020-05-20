@@ -10,8 +10,8 @@ Welcome to mwa-secmet-bgc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   
-   intro
+
+   Intro
 
 
 
