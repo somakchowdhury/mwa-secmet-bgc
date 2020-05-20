@@ -1,6 +1,6 @@
 # Rscript written to parse blast outputs and create new columns
-require(tidyverse)
-require(optparse)
+suppressMessages(library(tidyverse))
+suppressMessages(library(optparse))
 #Arguments and flags for the script
 option_list <- list ( make_option (c("-t","--tabblast"),default="filename.txt", 
                                    help="Tab separated blast output from output format 6 (default %default)"),
@@ -37,7 +37,7 @@ dat = read.delim(file = opt$tabblast,header = FALSE,check.names=F) %>%
   {colnames(.)[5] = "Sub_bgc"; .} %>%
   {colnames(.)[6] = "Sub_frag"; .} %>%
   filter(Query_frag == Sub_frag)
-write.table(dat, file=opt$output, sep = "/t",row.names = FALSE)
+write.table(dat, file=opt$output, sep = "\t",row.names = FALSE)
 plot <- ggplot(data = dat,aes(x= as.numeric(Query_frag),y= PID))+
   geom_line()+
   scale_x_continuous(breaks=seq(0,1500,100))+
