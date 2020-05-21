@@ -12,6 +12,9 @@ Welcome to mwa-secmet-bgc's documentation!
 
 
    Intro
+   Processes
+   Workflow
+   Outputs
 
 
 
