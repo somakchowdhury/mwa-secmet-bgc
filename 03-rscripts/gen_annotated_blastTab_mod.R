@@ -36,9 +36,10 @@ dat = read.delim(file = opt$tabblast,header = FALSE,check.names=F) %>%
   {colnames(.)[4] = "Sub_mod"; .} %>%
   {colnames(.)[5] = "Sub_bgc"; .} %>%
   {colnames(.)[6] = "Sub_frag"; .} %>%
-  filter(Query_frag == Sub_frag)
+  filter(Query_frag == Sub_frag) %>%
+  mutate(window = as.numeric(Query_frag)+25 )
 write.table(dat, file=opt$output, sep = "\t",row.names = FALSE)
-plot <- ggplot(data = dat,aes(x= as.numeric(Query_frag),y= PID))+
+plot <- ggplot(data = dat,aes(x= as.numeric(window),y= PID))+
   geom_line()+
   scale_x_continuous(breaks=seq(0,1500,100))+
   #scale_y_continuous(breaks=seq(0,100,10))+
