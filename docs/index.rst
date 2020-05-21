@@ -6,6 +6,14 @@
 Welcome to mwa-secmet-bgc's documentation!
 ==========================================
 
+This workflow enables you to carry out a moving window analysis on secondary 
+metabolite producing genes which generally have multiple domains. 
+
+Contact: somakchowdhury@gmail.com
+
+Below is the documentation of the workflow.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
