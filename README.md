@@ -49,8 +49,8 @@ mwa-secmet-bgc
 
 The `results_plot/` contains pairwise graphs of the compared sequences with appropriate titles for subject and query
 
+![Example plot](https://github.com/somakchowdhury/mwa-secmet-bgc/blob/master/docs/imgs/plot.png)
+
 The `result_tables/` contains modified and filtered blast output tables that were used to produce the plots. 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NTgzMTEzLC00Mzg1ODQ5MDEsLTI0MD
-IwOTc3XX0=
--->
+
+![Example table](https://github.com/somakchowdhury/mwa-secmet-bgc/blob/master/docs/imgs/table.png)
